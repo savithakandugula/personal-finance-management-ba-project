@@ -1,4 +1,4 @@
-# **Requirements Gathering & User Stories Project**
+# Personal Finance Management - Business Analysis Case Study
 
 ## **Project Title:** *Personal Finance Management Module for Digital Banking Platform*
 
